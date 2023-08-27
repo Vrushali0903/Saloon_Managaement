@@ -1,1 +1,2 @@
-# Saloon_Managaement
+# salon-management-software
+Development Project 2 :)
